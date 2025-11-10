@@ -1,0 +1,201 @@
+customer_id,name,city,age,gender
+1,Customer_1,Houston,51,Female
+2,Customer_2,Phoenix,23,Male
+3,Customer_3,Chicago,39,Female
+4,Customer_4,Phoenix,28,Male
+5,Customer_5,Phoenix,65,Female
+6,Customer_6,Los Angeles,33,Female
+7,Customer_7,Chicago,50,Female
+8,Customer_8,Chicago,26,Female
+9,Customer_9,Chicago,23,Male
+10,Customer_10,Phoenix,33,Female
+11,Customer_11,Houston,46,Female
+12,Customer_12,Chicago,20,Female
+13,Customer_13,Phoenix,37,Male
+14,Customer_14,Los Angeles,53,Female
+15,Customer_15,Houston,36,Male
+16,Customer_16,Los Angeles,43,Female
+17,Customer_17,Houston,20,Male
+18,Customer_18,Phoenix,36,Male
+19,Customer_19,New York,37,Female
+20,Customer_20,Houston,49,Male
+21,Customer_21,Los Angeles,24,Female
+22,Customer_22,Phoenix,69,Female
+23,Customer_23,Houston,58,Female
+24,Customer_24,New York,50,Male
+25,Customer_25,New York,57,Male
+26,Customer_26,Chicago,56,Female
+27,Customer_27,Chicago,35,Female
+28,Customer_28,Los Angeles,57,Male
+29,Customer_29,Houston,18,Female
+30,Customer_30,Houston,28,Female
+31,Customer_31,Chicago,45,Female
+32,Customer_32,Houston,42,Male
+33,Customer_33,Houston,67,Male
+34,Customer_34,New York,40,Male
+35,Customer_35,Chicago,48,Female
+36,Customer_36,Phoenix,47,Female
+37,Customer_37,Chicago,59,Female
+38,Customer_38,Phoenix,52,Male
+39,Customer_39,New York,24,Female
+40,Customer_40,Los Angeles,33,Female
+41,Customer_41,Houston,43,Female
+42,Customer_42,New York,65,Female
+43,Customer_43,Houston,69,Male
+44,Customer_44,Los Angeles,66,Male
+45,Customer_45,Los Angeles,19,Female
+46,Customer_46,New York,18,Male
+47,Customer_47,Los Angeles,65,Male
+48,Customer_48,Phoenix,29,Female
+49,Customer_49,Los Angeles,22,Female
+50,Customer_50,Houston,54,Male
+51,Customer_51,Houston,49,Female
+52,Customer_52,Houston,26,Male
+53,Customer_53,Houston,58,Female
+54,Customer_54,Phoenix,52,Male
+55,Customer_55,Chicago,36,Female
+56,Customer_56,New York,65,Male
+57,Customer_57,Houston,33,Male
+58,Customer_58,Los Angeles,20,Male
+59,Customer_59,Houston,37,Female
+60,Customer_60,Los Angeles,41,Male
+61,Customer_61,Los Angeles,50,Male
+62,Customer_62,Houston,41,Female
+63,Customer_63,Phoenix,69,Female
+64,Customer_64,Los Angeles,28,Male
+65,Customer_65,Los Angeles,66,Male
+66,Customer_66,Houston,25,Female
+67,Customer_67,Los Angeles,53,Female
+68,Customer_68,Los Angeles,55,Female
+69,Customer_69,Houston,57,Female
+70,Customer_70,Houston,37,Female
+71,Customer_71,New York,52,Male
+72,Customer_72,Phoenix,65,Female
+73,Customer_73,Phoenix,42,Male
+74,Customer_74,Los Angeles,52,Male
+75,Customer_75,Phoenix,42,Male
+76,Customer_76,Los Angeles,46,Female
+77,Customer_77,New York,35,Male
+78,Customer_78,Houston,63,Male
+79,Customer_79,Houston,35,Female
+80,Customer_80,Houston,19,Male
+81,Customer_81,Phoenix,52,Male
+82,Customer_82,New York,33,Female
+83,Customer_83,Phoenix,58,Male
+84,Customer_84,Phoenix,53,Male
+85,Customer_85,New York,50,Male
+86,Customer_86,New York,21,Female
+87,Customer_87,New York,50,Female
+88,Customer_88,New York,31,Female
+89,Customer_89,Houston,38,Male
+90,Customer_90,Chicago,65,Male
+91,Customer_91,Chicago,37,Female
+92,Customer_92,New York,25,Male
+93,Customer_93,Chicago,24,Male
+94,Customer_94,Chicago,20,Female
+95,Customer_95,New York,34,Female
+96,Customer_96,Chicago,50,Male
+97,Customer_97,Phoenix,65,Male
+98,Customer_98,Los Angeles,29,Male
+99,Customer_99,Los Angeles,68,Female
+100,Customer_100,New York,39,Female
+101,Customer_101,Houston,39,Female
+102,Customer_102,New York,63,Female
+103,Customer_103,Houston,47,Male
+104,Customer_104,Los Angeles,55,Female
+105,Customer_105,New York,55,Female
+106,Customer_106,Phoenix,62,Female
+107,Customer_107,Chicago,68,Female
+108,Customer_108,Houston,25,Female
+109,Customer_109,Chicago,44,Male
+110,Customer_110,Chicago,44,Male
+111,Customer_111,New York,51,Female
+112,Customer_112,Chicago,38,Male
+113,Customer_113,Phoenix,47,Female
+114,Customer_114,Chicago,50,Female
+115,Customer_115,New York,45,Male
+116,Customer_116,Phoenix,64,Male
+117,Customer_117,Los Angeles,50,Female
+118,Customer_118,Chicago,22,Female
+119,Customer_119,New York,65,Female
+120,Customer_120,Los Angeles,36,Male
+121,Customer_121,Los Angeles,21,Female
+122,Customer_122,Houston,52,Female
+123,Customer_123,Phoenix,66,Female
+124,Customer_124,Chicago,34,Male
+125,Customer_125,New York,61,Female
+126,Customer_126,Houston,45,Female
+127,Customer_127,Phoenix,47,Male
+128,Customer_128,Houston,46,Female
+129,Customer_129,Phoenix,63,Female
+130,Customer_130,Phoenix,23,Male
+131,Customer_131,Chicago,52,Female
+132,Customer_132,Phoenix,58,Male
+133,Customer_133,Houston,54,Male
+134,Customer_134,Phoenix,41,Female
+135,Customer_135,Chicago,46,Female
+136,Customer_136,Chicago,66,Female
+137,Customer_137,Houston,63,Female
+138,Customer_138,Los Angeles,48,Male
+139,Customer_139,Los Angeles,52,Female
+140,Customer_140,Phoenix,50,Male
+141,Customer_141,New York,69,Female
+142,Customer_142,Phoenix,38,Female
+143,Customer_143,Houston,49,Female
+144,Customer_144,Houston,40,Male
+145,Customer_145,Houston,50,Female
+146,Customer_146,Houston,20,Female
+147,Customer_147,Houston,35,Female
+148,Customer_148,Chicago,42,Female
+149,Customer_149,Los Angeles,59,Male
+150,Customer_150,Houston,48,Female
+151,Customer_151,New York,20,Male
+152,Customer_152,New York,57,Male
+153,Customer_153,New York,63,Male
+154,Customer_154,New York,41,Male
+155,Customer_155,Chicago,67,Male
+156,Customer_156,New York,49,Male
+157,Customer_157,Houston,64,Female
+158,Customer_158,Phoenix,39,Male
+159,Customer_159,New York,40,Male
+160,Customer_160,Chicago,19,Male
+161,Customer_161,Chicago,44,Female
+162,Customer_162,New York,59,Female
+163,Customer_163,Phoenix,19,Male
+164,Customer_164,New York,43,Female
+165,Customer_165,Chicago,34,Male
+166,Customer_166,Los Angeles,57,Male
+167,Customer_167,Houston,50,Female
+168,Customer_168,Chicago,26,Male
+169,Customer_169,New York,60,Female
+170,Customer_170,Houston,65,Female
+171,Customer_171,New York,56,Male
+172,Customer_172,New York,46,Male
+173,Customer_173,Los Angeles,59,Female
+174,Customer_174,Houston,43,Male
+175,Customer_175,Houston,52,Male
+176,Customer_176,Los Angeles,67,Male
+177,Customer_177,Chicago,42,Female
+178,Customer_178,New York,41,Female
+179,Customer_179,Phoenix,30,Male
+180,Customer_180,New York,24,Female
+181,Customer_181,New York,53,Female
+182,Customer_182,Chicago,62,Female
+183,Customer_183,New York,37,Female
+184,Customer_184,Los Angeles,18,Female
+185,Customer_185,Los Angeles,25,Male
+186,Customer_186,Houston,63,Male
+187,Customer_187,Phoenix,33,Male
+188,Customer_188,New York,31,Female
+189,Customer_189,New York,29,Female
+190,Customer_190,Chicago,68,Male
+191,Customer_191,Los Angeles,40,Female
+192,Customer_192,Phoenix,32,Male
+193,Customer_193,Houston,45,Male
+194,Customer_194,Los Angeles,51,Male
+195,Customer_195,Houston,19,Female
+196,Customer_196,Chicago,49,Female
+197,Customer_197,Chicago,40,Male
+198,Customer_198,New York,39,Male
+199,Customer_199,Phoenix,68,Male
+200,Customer_200,Houston,42,Male

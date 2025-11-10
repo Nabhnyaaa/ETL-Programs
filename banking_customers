@@ -1,0 +1,1599 @@
+[
+    {
+        "customer_name": "Vihaan Verma",
+        "bank_name": "ICICI Bank",
+        "account_types": [
+            "Recurring Deposit",
+            "Savings"
+        ],
+        "balance": 37654,
+        "address": {
+            "street": "Brigade Road",
+            "city": "Delhi",
+            "state": "Tamil Nadu",
+            "pincode": 748280,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Reyansh Mehta",
+        "bank_name": "PNB",
+        "account_types": [
+            "Recurring Deposit",
+            "Savings",
+            "Fixed Deposit"
+        ],
+        "balance": 37904,
+        "address": {
+            "street": "Brigade Road",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "pincode": 149311,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Arjun Chopra",
+        "bank_name": "SBI",
+        "account_types": [
+            "Recurring Deposit",
+            "Savings",
+            "Current"
+        ],
+        "balance": 16715,
+        "address": {
+            "street": "Brigade Road",
+            "city": "Bangalore",
+            "state": "Tamil Nadu",
+            "pincode": 837725,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Vihaan Verma",
+        "bank_name": "PNB",
+        "account_types": [
+            "Savings",
+            "Current",
+            "Fixed Deposit"
+        ],
+        "balance": 86711,
+        "address": {
+            "street": "Brigade Road",
+            "city": "Chennai",
+            "state": "Karnataka",
+            "pincode": 445377,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Aditya Sharma",
+        "bank_name": "SBI",
+        "account_types": [
+            "Current",
+            "Savings"
+        ],
+        "balance": 6315,
+        "address": {
+            "street": "Park Street",
+            "city": "Mumbai",
+            "state": "Tamil Nadu",
+            "pincode": 973725,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Krishna Chopra",
+        "bank_name": "ICICI Bank",
+        "account_types": [
+            "Fixed Deposit"
+        ],
+        "balance": 44669,
+        "address": {
+            "street": "Linking Road",
+            "city": "Hyderabad",
+            "state": "Maharashtra",
+            "pincode": 960570,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Ishaan Mehta",
+        "bank_name": "Axis Bank",
+        "account_types": [
+            "Recurring Deposit",
+            "Current",
+            "Fixed Deposit"
+        ],
+        "balance": 41755,
+        "address": {
+            "street": "Park Street",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "pincode": 183862,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Rudra Bose",
+        "bank_name": "SBI",
+        "account_types": [
+            "Recurring Deposit"
+        ],
+        "balance": 81708,
+        "address": {
+            "street": "Brigade Road",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "pincode": 593019,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Vihaan Sharma",
+        "bank_name": "PNB",
+        "account_types": [
+            "Fixed Deposit",
+            "Savings"
+        ],
+        "balance": 50925,
+        "address": {
+            "street": "Marine Drive",
+            "city": "Delhi",
+            "state": "Karnataka",
+            "pincode": 180997,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Reyansh Reddy",
+        "bank_name": "PNB",
+        "account_types": [
+            "Savings"
+        ],
+        "balance": 39607,
+        "address": {
+            "street": "Brigade Road",
+            "city": "Mumbai",
+            "state": "Delhi",
+            "pincode": 751425,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Vihaan Bose",
+        "bank_name": "HDFC Bank",
+        "account_types": [
+            "Current",
+            "Fixed Deposit",
+            "Recurring Deposit"
+        ],
+        "balance": 60175,
+        "address": {
+            "street": "Brigade Road",
+            "city": "Bangalore",
+            "state": "Maharashtra",
+            "pincode": 259217,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Arjun Gupta",
+        "bank_name": "ICICI Bank",
+        "account_types": [
+            "Current",
+            "Recurring Deposit",
+            "Fixed Deposit"
+        ],
+        "balance": 72225,
+        "address": {
+            "street": "Marine Drive",
+            "city": "Bangalore",
+            "state": "Maharashtra",
+            "pincode": 339898,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Aarav Singh",
+        "bank_name": "ICICI Bank",
+        "account_types": [
+            "Current",
+            "Fixed Deposit"
+        ],
+        "balance": 62717,
+        "address": {
+            "street": "Park Street",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "pincode": 300846,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Vivaan Bose",
+        "bank_name": "Axis Bank",
+        "account_types": [
+            "Fixed Deposit",
+            "Savings",
+            "Recurring Deposit"
+        ],
+        "balance": 40501,
+        "address": {
+            "street": "Marine Drive",
+            "city": "Delhi",
+            "state": "Maharashtra",
+            "pincode": 671817,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Reyansh Reddy",
+        "bank_name": "ICICI Bank",
+        "account_types": [
+            "Recurring Deposit"
+        ],
+        "balance": 82630,
+        "address": {
+            "street": "Brigade Road",
+            "city": "Pune",
+            "state": "Telangana",
+            "pincode": 822436,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Ishaan Gupta",
+        "bank_name": "SBI",
+        "account_types": [
+            "Recurring Deposit",
+            "Savings"
+        ],
+        "balance": 61243,
+        "address": {
+            "street": "Park Street",
+            "city": "Delhi",
+            "state": "Maharashtra",
+            "pincode": 688870,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Sai Mehta",
+        "bank_name": "SBI",
+        "account_types": [
+            "Recurring Deposit",
+            "Current"
+        ],
+        "balance": 78933,
+        "address": {
+            "street": "Park Street",
+            "city": "Mumbai",
+            "state": "Tamil Nadu",
+            "pincode": 713921,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Krishna Chopra",
+        "bank_name": "ICICI Bank",
+        "account_types": [
+            "Current"
+        ],
+        "balance": 5892,
+        "address": {
+            "street": "MG Road",
+            "city": "Hyderabad",
+            "state": "Tamil Nadu",
+            "pincode": 626277,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Rudra Reddy",
+        "bank_name": "SBI",
+        "account_types": [
+            "Current"
+        ],
+        "balance": 43837,
+        "address": {
+            "street": "Marine Drive",
+            "city": "Chennai",
+            "state": "Karnataka",
+            "pincode": 297990,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Arjun Verma",
+        "bank_name": "Axis Bank",
+        "account_types": [
+            "Current",
+            "Savings",
+            "Recurring Deposit"
+        ],
+        "balance": 75338,
+        "address": {
+            "street": "Marine Drive",
+            "city": "Delhi",
+            "state": "Karnataka",
+            "pincode": 247057,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Arjun Patel",
+        "bank_name": "SBI",
+        "account_types": [
+            "Recurring Deposit",
+            "Current",
+            "Fixed Deposit"
+        ],
+        "balance": 44104,
+        "address": {
+            "street": "Park Street",
+            "city": "Mumbai",
+            "state": "Delhi",
+            "pincode": 122853,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Rudra Reddy",
+        "bank_name": "ICICI Bank",
+        "account_types": [
+            "Recurring Deposit",
+            "Current",
+            "Savings"
+        ],
+        "balance": 94689,
+        "address": {
+            "street": "MG Road",
+            "city": "Chennai",
+            "state": "Delhi",
+            "pincode": 175143,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Aarav Nair",
+        "bank_name": "PNB",
+        "account_types": [
+            "Recurring Deposit",
+            "Current",
+            "Fixed Deposit"
+        ],
+        "balance": 94139,
+        "address": {
+            "street": "Linking Road",
+            "city": "Chennai",
+            "state": "Telangana",
+            "pincode": 261955,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Arjun Verma",
+        "bank_name": "PNB",
+        "account_types": [
+            "Current"
+        ],
+        "balance": 3754,
+        "address": {
+            "street": "Marine Drive",
+            "city": "Chennai",
+            "state": "Telangana",
+            "pincode": 381922,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Krishna Singh",
+        "bank_name": "PNB",
+        "account_types": [
+            "Current",
+            "Recurring Deposit",
+            "Fixed Deposit"
+        ],
+        "balance": 35305,
+        "address": {
+            "street": "Park Street",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pincode": 843826,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Krishna Bose",
+        "bank_name": "HDFC Bank",
+        "account_types": [
+            "Fixed Deposit",
+            "Savings",
+            "Current"
+        ],
+        "balance": 21858,
+        "address": {
+            "street": "Marine Drive",
+            "city": "Hyderabad",
+            "state": "Karnataka",
+            "pincode": 715530,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Rudra Sharma",
+        "bank_name": "HDFC Bank",
+        "account_types": [
+            "Savings",
+            "Fixed Deposit",
+            "Recurring Deposit"
+        ],
+        "balance": 59620,
+        "address": {
+            "street": "MG Road",
+            "city": "Chennai",
+            "state": "Telangana",
+            "pincode": 994877,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Vivaan Gupta",
+        "bank_name": "ICICI Bank",
+        "account_types": [
+            "Recurring Deposit"
+        ],
+        "balance": 20869,
+        "address": {
+            "street": "MG Road",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "pincode": 503673,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Vihaan Reddy",
+        "bank_name": "PNB",
+        "account_types": [
+            "Fixed Deposit"
+        ],
+        "balance": 23876,
+        "address": {
+            "street": "MG Road",
+            "city": "Hyderabad",
+            "state": "Karnataka",
+            "pincode": 877761,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Vivaan Patel",
+        "bank_name": "Axis Bank",
+        "account_types": [
+            "Recurring Deposit"
+        ],
+        "balance": 3955,
+        "address": {
+            "street": "Marine Drive",
+            "city": "Delhi",
+            "state": "Telangana",
+            "pincode": 938727,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Rudra Gupta",
+        "bank_name": "SBI",
+        "account_types": [
+            "Current"
+        ],
+        "balance": 18479,
+        "address": {
+            "street": "Park Street",
+            "city": "Hyderabad",
+            "state": "Karnataka",
+            "pincode": 860112,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Aarav Verma",
+        "bank_name": "ICICI Bank",
+        "account_types": [
+            "Savings",
+            "Fixed Deposit"
+        ],
+        "balance": 7288,
+        "address": {
+            "street": "MG Road",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "pincode": 427154,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Krishna Verma",
+        "bank_name": "ICICI Bank",
+        "account_types": [
+            "Fixed Deposit"
+        ],
+        "balance": 37984,
+        "address": {
+            "street": "MG Road",
+            "city": "Mumbai",
+            "state": "Telangana",
+            "pincode": 575435,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Reyansh Mehta",
+        "bank_name": "PNB",
+        "account_types": [
+            "Current"
+        ],
+        "balance": 12298,
+        "address": {
+            "street": "Linking Road",
+            "city": "Mumbai",
+            "state": "Karnataka",
+            "pincode": 514204,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Krishna Verma",
+        "bank_name": "Axis Bank",
+        "account_types": [
+            "Savings",
+            "Current"
+        ],
+        "balance": 9855,
+        "address": {
+            "street": "MG Road",
+            "city": "Mumbai",
+            "state": "Delhi",
+            "pincode": 165569,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Aditya Sharma",
+        "bank_name": "PNB",
+        "account_types": [
+            "Savings",
+            "Fixed Deposit",
+            "Current"
+        ],
+        "balance": 61020,
+        "address": {
+            "street": "Brigade Road",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pincode": 281911,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Krishna Reddy",
+        "bank_name": "ICICI Bank",
+        "account_types": [
+            "Recurring Deposit",
+            "Fixed Deposit",
+            "Current"
+        ],
+        "balance": 62284,
+        "address": {
+            "street": "Linking Road",
+            "city": "Delhi",
+            "state": "Tamil Nadu",
+            "pincode": 185492,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Reyansh Sharma",
+        "bank_name": "SBI",
+        "account_types": [
+            "Savings"
+        ],
+        "balance": 50636,
+        "address": {
+            "street": "Park Street",
+            "city": "Delhi",
+            "state": "Karnataka",
+            "pincode": 625395,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Aditya Mehta",
+        "bank_name": "ICICI Bank",
+        "account_types": [
+            "Recurring Deposit",
+            "Savings",
+            "Fixed Deposit"
+        ],
+        "balance": 42672,
+        "address": {
+            "street": "MG Road",
+            "city": "Delhi",
+            "state": "Karnataka",
+            "pincode": 681762,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Reyansh Chopra",
+        "bank_name": "Axis Bank",
+        "account_types": [
+            "Savings",
+            "Fixed Deposit",
+            "Recurring Deposit"
+        ],
+        "balance": 13611,
+        "address": {
+            "street": "Brigade Road",
+            "city": "Pune",
+            "state": "Karnataka",
+            "pincode": 373228,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Vivaan Verma",
+        "bank_name": "PNB",
+        "account_types": [
+            "Fixed Deposit"
+        ],
+        "balance": 80915,
+        "address": {
+            "street": "Marine Drive",
+            "city": "Bangalore",
+            "state": "Delhi",
+            "pincode": 297517,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Arjun Sharma",
+        "bank_name": "SBI",
+        "account_types": [
+            "Savings",
+            "Recurring Deposit",
+            "Current"
+        ],
+        "balance": 9028,
+        "address": {
+            "street": "Park Street",
+            "city": "Delhi",
+            "state": "Karnataka",
+            "pincode": 898857,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Vivaan Singh",
+        "bank_name": "HDFC Bank",
+        "account_types": [
+            "Savings"
+        ],
+        "balance": 61002,
+        "address": {
+            "street": "Park Street",
+            "city": "Pune",
+            "state": "Telangana",
+            "pincode": 639284,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Sai Reddy",
+        "bank_name": "HDFC Bank",
+        "account_types": [
+            "Fixed Deposit"
+        ],
+        "balance": 96751,
+        "address": {
+            "street": "MG Road",
+            "city": "Pune",
+            "state": "Tamil Nadu",
+            "pincode": 285324,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Aditya Bose",
+        "bank_name": "HDFC Bank",
+        "account_types": [
+            "Fixed Deposit",
+            "Recurring Deposit"
+        ],
+        "balance": 66187,
+        "address": {
+            "street": "Marine Drive",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pincode": 416742,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Aditya Mehta",
+        "bank_name": "PNB",
+        "account_types": [
+            "Recurring Deposit"
+        ],
+        "balance": 34371,
+        "address": {
+            "street": "Brigade Road",
+            "city": "Delhi",
+            "state": "Maharashtra",
+            "pincode": 162337,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Aarav Bose",
+        "bank_name": "SBI",
+        "account_types": [
+            "Recurring Deposit",
+            "Savings",
+            "Fixed Deposit"
+        ],
+        "balance": 10391,
+        "address": {
+            "street": "Park Street",
+            "city": "Pune",
+            "state": "Telangana",
+            "pincode": 555956,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Reyansh Mehta",
+        "bank_name": "Axis Bank",
+        "account_types": [
+            "Recurring Deposit",
+            "Savings"
+        ],
+        "balance": 70667,
+        "address": {
+            "street": "Marine Drive",
+            "city": "Bangalore",
+            "state": "Delhi",
+            "pincode": 901486,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Aditya Mehta",
+        "bank_name": "SBI",
+        "account_types": [
+            "Savings",
+            "Fixed Deposit",
+            "Current"
+        ],
+        "balance": 95333,
+        "address": {
+            "street": "Marine Drive",
+            "city": "Hyderabad",
+            "state": "Tamil Nadu",
+            "pincode": 732315,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Vivaan Mehta",
+        "bank_name": "SBI",
+        "account_types": [
+            "Recurring Deposit",
+            "Current",
+            "Savings"
+        ],
+        "balance": 13973,
+        "address": {
+            "street": "Park Street",
+            "city": "Mumbai",
+            "state": "Tamil Nadu",
+            "pincode": 574778,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Krishna Nair",
+        "bank_name": "SBI",
+        "account_types": [
+            "Current",
+            "Fixed Deposit"
+        ],
+        "balance": 24924,
+        "address": {
+            "street": "Linking Road",
+            "city": "Delhi",
+            "state": "Tamil Nadu",
+            "pincode": 180949,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Aarav Sharma",
+        "bank_name": "HDFC Bank",
+        "account_types": [
+            "Savings",
+            "Current",
+            "Recurring Deposit"
+        ],
+        "balance": 63541,
+        "address": {
+            "street": "Linking Road",
+            "city": "Mumbai",
+            "state": "Karnataka",
+            "pincode": 496991,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Rudra Reddy",
+        "bank_name": "HDFC Bank",
+        "account_types": [
+            "Current"
+        ],
+        "balance": 30706,
+        "address": {
+            "street": "Marine Drive",
+            "city": "Mumbai",
+            "state": "Telangana",
+            "pincode": 311852,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Vivaan Verma",
+        "bank_name": "SBI",
+        "account_types": [
+            "Savings"
+        ],
+        "balance": 17487,
+        "address": {
+            "street": "Park Street",
+            "city": "Pune",
+            "state": "Karnataka",
+            "pincode": 577305,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Rudra Verma",
+        "bank_name": "SBI",
+        "account_types": [
+            "Recurring Deposit",
+            "Current",
+            "Savings"
+        ],
+        "balance": 29020,
+        "address": {
+            "street": "Brigade Road",
+            "city": "Chennai",
+            "state": "Maharashtra",
+            "pincode": 971454,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Rudra Gupta",
+        "bank_name": "Axis Bank",
+        "account_types": [
+            "Current",
+            "Recurring Deposit",
+            "Fixed Deposit"
+        ],
+        "balance": 63335,
+        "address": {
+            "street": "Linking Road",
+            "city": "Chennai",
+            "state": "Telangana",
+            "pincode": 255249,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Sai Gupta",
+        "bank_name": "HDFC Bank",
+        "account_types": [
+            "Fixed Deposit"
+        ],
+        "balance": 97036,
+        "address": {
+            "street": "Park Street",
+            "city": "Mumbai",
+            "state": "Karnataka",
+            "pincode": 706129,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Sai Gupta",
+        "bank_name": "PNB",
+        "account_types": [
+            "Savings",
+            "Fixed Deposit"
+        ],
+        "balance": 26669,
+        "address": {
+            "street": "Park Street",
+            "city": "Delhi",
+            "state": "Maharashtra",
+            "pincode": 534223,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Ishaan Sharma",
+        "bank_name": "SBI",
+        "account_types": [
+            "Fixed Deposit",
+            "Savings"
+        ],
+        "balance": 33058,
+        "address": {
+            "street": "Brigade Road",
+            "city": "Pune",
+            "state": "Telangana",
+            "pincode": 184350,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Aditya Chopra",
+        "bank_name": "SBI",
+        "account_types": [
+            "Recurring Deposit",
+            "Savings",
+            "Current"
+        ],
+        "balance": 83525,
+        "address": {
+            "street": "Linking Road",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pincode": 402375,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Krishna Bose",
+        "bank_name": "PNB",
+        "account_types": [
+            "Recurring Deposit",
+            "Current"
+        ],
+        "balance": 49541,
+        "address": {
+            "street": "MG Road",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pincode": 262594,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Aarav Gupta",
+        "bank_name": "SBI",
+        "account_types": [
+            "Current",
+            "Fixed Deposit"
+        ],
+        "balance": 33868,
+        "address": {
+            "street": "Marine Drive",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "pincode": 925783,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Reyansh Gupta",
+        "bank_name": "HDFC Bank",
+        "account_types": [
+            "Current",
+            "Recurring Deposit",
+            "Savings"
+        ],
+        "balance": 28915,
+        "address": {
+            "street": "MG Road",
+            "city": "Bangalore",
+            "state": "Maharashtra",
+            "pincode": 654671,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Aditya Bose",
+        "bank_name": "PNB",
+        "account_types": [
+            "Fixed Deposit",
+            "Savings"
+        ],
+        "balance": 67091,
+        "address": {
+            "street": "Marine Drive",
+            "city": "Mumbai",
+            "state": "Telangana",
+            "pincode": 734947,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Ishaan Singh",
+        "bank_name": "PNB",
+        "account_types": [
+            "Recurring Deposit"
+        ],
+        "balance": 77104,
+        "address": {
+            "street": "Brigade Road",
+            "city": "Delhi",
+            "state": "Karnataka",
+            "pincode": 107260,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Aditya Gupta",
+        "bank_name": "Axis Bank",
+        "account_types": [
+            "Savings",
+            "Fixed Deposit"
+        ],
+        "balance": 1297,
+        "address": {
+            "street": "Brigade Road",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pincode": 449157,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Vivaan Nair",
+        "bank_name": "HDFC Bank",
+        "account_types": [
+            "Current"
+        ],
+        "balance": 5586,
+        "address": {
+            "street": "MG Road",
+            "city": "Hyderabad",
+            "state": "Delhi",
+            "pincode": 314015,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Krishna Verma",
+        "bank_name": "PNB",
+        "account_types": [
+            "Fixed Deposit"
+        ],
+        "balance": 6555,
+        "address": {
+            "street": "Marine Drive",
+            "city": "Bangalore",
+            "state": "Telangana",
+            "pincode": 808399,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Vivaan Verma",
+        "bank_name": "PNB",
+        "account_types": [
+            "Savings",
+            "Fixed Deposit"
+        ],
+        "balance": 99327,
+        "address": {
+            "street": "Park Street",
+            "city": "Mumbai",
+            "state": "Karnataka",
+            "pincode": 578055,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Ishaan Chopra",
+        "bank_name": "PNB",
+        "account_types": [
+            "Current"
+        ],
+        "balance": 85735,
+        "address": {
+            "street": "MG Road",
+            "city": "Pune",
+            "state": "Tamil Nadu",
+            "pincode": 661553,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Aditya Bose",
+        "bank_name": "ICICI Bank",
+        "account_types": [
+            "Recurring Deposit",
+            "Current",
+            "Savings"
+        ],
+        "balance": 71854,
+        "address": {
+            "street": "MG Road",
+            "city": "Chennai",
+            "state": "Delhi",
+            "pincode": 203901,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Arjun Chopra",
+        "bank_name": "Axis Bank",
+        "account_types": [
+            "Savings"
+        ],
+        "balance": 72460,
+        "address": {
+            "street": "MG Road",
+            "city": "Mumbai",
+            "state": "Delhi",
+            "pincode": 550798,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Aditya Sharma",
+        "bank_name": "HDFC Bank",
+        "account_types": [
+            "Savings",
+            "Fixed Deposit"
+        ],
+        "balance": 17762,
+        "address": {
+            "street": "Brigade Road",
+            "city": "Chennai",
+            "state": "Telangana",
+            "pincode": 468676,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Sai Mehta",
+        "bank_name": "ICICI Bank",
+        "account_types": [
+            "Fixed Deposit"
+        ],
+        "balance": 90956,
+        "address": {
+            "street": "Linking Road",
+            "city": "Pune",
+            "state": "Karnataka",
+            "pincode": 718095,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Aditya Reddy",
+        "bank_name": "SBI",
+        "account_types": [
+            "Recurring Deposit"
+        ],
+        "balance": 55860,
+        "address": {
+            "street": "MG Road",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "pincode": 364112,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Arjun Chopra",
+        "bank_name": "ICICI Bank",
+        "account_types": [
+            "Current",
+            "Fixed Deposit",
+            "Recurring Deposit"
+        ],
+        "balance": 41020,
+        "address": {
+            "street": "Linking Road",
+            "city": "Hyderabad",
+            "state": "Karnataka",
+            "pincode": 427198,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Rudra Reddy",
+        "bank_name": "SBI",
+        "account_types": [
+            "Recurring Deposit"
+        ],
+        "balance": 80958,
+        "address": {
+            "street": "Marine Drive",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "pincode": 596985,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Sai Verma",
+        "bank_name": "Axis Bank",
+        "account_types": [
+            "Recurring Deposit"
+        ],
+        "balance": 7477,
+        "address": {
+            "street": "Park Street",
+            "city": "Delhi",
+            "state": "Maharashtra",
+            "pincode": 652888,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Ishaan Patel",
+        "bank_name": "Axis Bank",
+        "account_types": [
+            "Savings"
+        ],
+        "balance": 31733,
+        "address": {
+            "street": "Marine Drive",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pincode": 673277,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Sai Chopra",
+        "bank_name": "PNB",
+        "account_types": [
+            "Fixed Deposit",
+            "Recurring Deposit"
+        ],
+        "balance": 53704,
+        "address": {
+            "street": "MG Road",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "pincode": 767365,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Reyansh Patel",
+        "bank_name": "PNB",
+        "account_types": [
+            "Recurring Deposit",
+            "Savings",
+            "Fixed Deposit"
+        ],
+        "balance": 69823,
+        "address": {
+            "street": "Marine Drive",
+            "city": "Bangalore",
+            "state": "Maharashtra",
+            "pincode": 963991,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Rudra Sharma",
+        "bank_name": "ICICI Bank",
+        "account_types": [
+            "Current",
+            "Fixed Deposit"
+        ],
+        "balance": 73528,
+        "address": {
+            "street": "Brigade Road",
+            "city": "Mumbai",
+            "state": "Karnataka",
+            "pincode": 991134,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Aditya Bose",
+        "bank_name": "ICICI Bank",
+        "account_types": [
+            "Savings",
+            "Fixed Deposit"
+        ],
+        "balance": 58079,
+        "address": {
+            "street": "MG Road",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "pincode": 221250,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Krishna Mehta",
+        "bank_name": "SBI",
+        "account_types": [
+            "Recurring Deposit",
+            "Current",
+            "Savings"
+        ],
+        "balance": 96900,
+        "address": {
+            "street": "Marine Drive",
+            "city": "Mumbai",
+            "state": "Telangana",
+            "pincode": 716064,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Rudra Mehta",
+        "bank_name": "HDFC Bank",
+        "account_types": [
+            "Fixed Deposit",
+            "Savings"
+        ],
+        "balance": 71786,
+        "address": {
+            "street": "Park Street",
+            "city": "Pune",
+            "state": "Tamil Nadu",
+            "pincode": 681583,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Vivaan Gupta",
+        "bank_name": "PNB",
+        "account_types": [
+            "Recurring Deposit"
+        ],
+        "balance": 8267,
+        "address": {
+            "street": "Park Street",
+            "city": "Mumbai",
+            "state": "Delhi",
+            "pincode": 976385,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Vivaan Singh",
+        "bank_name": "Axis Bank",
+        "account_types": [
+            "Current"
+        ],
+        "balance": 78343,
+        "address": {
+            "street": "Park Street",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pincode": 448955,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Vihaan Patel",
+        "bank_name": "HDFC Bank",
+        "account_types": [
+            "Recurring Deposit"
+        ],
+        "balance": 86190,
+        "address": {
+            "street": "Park Street",
+            "city": "Hyderabad",
+            "state": "Karnataka",
+            "pincode": 979446,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Vihaan Verma",
+        "bank_name": "PNB",
+        "account_types": [
+            "Recurring Deposit",
+            "Fixed Deposit",
+            "Savings"
+        ],
+        "balance": 38489,
+        "address": {
+            "street": "Park Street",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pincode": 456578,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Vihaan Chopra",
+        "bank_name": "HDFC Bank",
+        "account_types": [
+            "Recurring Deposit",
+            "Fixed Deposit"
+        ],
+        "balance": 2529,
+        "address": {
+            "street": "Marine Drive",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "pincode": 272875,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Vivaan Reddy",
+        "bank_name": "PNB",
+        "account_types": [
+            "Recurring Deposit"
+        ],
+        "balance": 16761,
+        "address": {
+            "street": "Park Street",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "pincode": 757594,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Ishaan Reddy",
+        "bank_name": "ICICI Bank",
+        "account_types": [
+            "Savings"
+        ],
+        "balance": 35706,
+        "address": {
+            "street": "Park Street",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "pincode": 302672,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Vihaan Verma",
+        "bank_name": "SBI",
+        "account_types": [
+            "Fixed Deposit",
+            "Savings",
+            "Recurring Deposit"
+        ],
+        "balance": 58756,
+        "address": {
+            "street": "Brigade Road",
+            "city": "Pune",
+            "state": "Delhi",
+            "pincode": 594634,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Aditya Sharma",
+        "bank_name": "Axis Bank",
+        "account_types": [
+            "Savings",
+            "Current"
+        ],
+        "balance": 43136,
+        "address": {
+            "street": "MG Road",
+            "city": "Mumbai",
+            "state": "Karnataka",
+            "pincode": 881145,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Sai Reddy",
+        "bank_name": "PNB",
+        "account_types": [
+            "Current",
+            "Fixed Deposit",
+            "Savings"
+        ],
+        "balance": 73246,
+        "address": {
+            "street": "MG Road",
+            "city": "Pune",
+            "state": "Delhi",
+            "pincode": 330067,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Vivaan Reddy",
+        "bank_name": "Axis Bank",
+        "account_types": [
+            "Fixed Deposit"
+        ],
+        "balance": 22972,
+        "address": {
+            "street": "MG Road",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pincode": 263646,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Aarav Singh",
+        "bank_name": "Axis Bank",
+        "account_types": [
+            "Recurring Deposit"
+        ],
+        "balance": 69525,
+        "address": {
+            "street": "Linking Road",
+            "city": "Mumbai",
+            "state": "Delhi",
+            "pincode": 768463,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Sai Bose",
+        "bank_name": "HDFC Bank",
+        "account_types": [
+            "Fixed Deposit",
+            "Recurring Deposit"
+        ],
+        "balance": 32262,
+        "address": {
+            "street": "Brigade Road",
+            "city": "Pune",
+            "state": "Telangana",
+            "pincode": 807705,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Aarav Patel",
+        "bank_name": "ICICI Bank",
+        "account_types": [
+            "Recurring Deposit",
+            "Fixed Deposit",
+            "Savings"
+        ],
+        "balance": 81195,
+        "address": {
+            "street": "Marine Drive",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pincode": 437240,
+            "country": "India"
+        }
+    },
+    {
+        "customer_name": "Reyansh Nair",
+        "bank_name": "Axis Bank",
+        "account_types": [
+            "Current",
+            "Recurring Deposit"
+        ],
+        "balance": 89040,
+        "address": {
+            "street": "Marine Drive",
+            "city": "Mumbai",
+            "state": "Tamil Nadu",
+            "pincode": 275957,
+            "country": "India"
+        }
+    }
+]

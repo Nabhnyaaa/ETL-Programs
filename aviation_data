@@ -1,0 +1,100 @@
+AI1000,Vistara,Bangalore,Pune,A321,00:00,02:00,209,7222,Cancelled,85
+AI1001,Vistara,Delhi,Kolkata,B787,01:00,03:00,136,9465,On Time,105
+AI1002,Air India,Chennai,Mumbai,ATR-72,02:00,04:00,93,12066,Delayed,83
+AI1003,IndiGo,Hyderabad,Kolkata,ATR-72,03:00,05:00,181,7645,Cancelled,157
+AI1004,Air India,Mumbai,Bangalore,B787,04:00,06:00,146,6913,On Time,128
+AI1005,Vistara,Ahmedabad,Kolkata,A321,05:00,07:00,225,5119,On Time,67
+AI1006,GoAir,Hyderabad,Kolkata,A320,06:00,08:00,175,7115,Cancelled,110
+AI1007,Vistara,Pune,Ahmedabad,B737,07:00,09:00,61,11393,On Time,162
+AI1008,IndiGo,Pune,Chennai,B787,08:00,10:00,114,11919,Delayed,109
+AI1009,Vistara,Chennai,Ahmedabad,B787,09:00,11:00,135,5756,Cancelled,112
+AI1010,Air India,Delhi,Ahmedabad,ATR-72,10:00,12:00,147,11655,Delayed,112
+AI1011,IndiGo,Ahmedabad,Bangalore,B787,11:00,13:00,174,3493,Delayed,127
+AI1012,Vistara,Ahmedabad,Ahmedabad,ATR-72,12:00,14:00,207,14154,Cancelled,112
+AI1013,AirAsia India,Chennai,Ahmedabad,B737,13:00,15:00,230,7105,On Time,53
+AI1014,SpiceJet,Bangalore,Delhi,A320,14:00,16:00,156,13882,Cancelled,97
+AI1015,AirAsia India,Kolkata,Chennai,B787,15:00,17:00,193,12893,Delayed,125
+AI1016,IndiGo,Ahmedabad,Bangalore,B787,16:00,18:00,89,11188,On Time,68
+AI1017,SpiceJet,Delhi,Pune,ATR-72,17:00,19:00,104,10009,Cancelled,50
+AI1018,IndiGo,Pune,Delhi,A320,18:00,20:00,216,4334,Delayed,93
+AI1019,Vistara,Mumbai,Chennai,B787,19:00,21:00,202,8011,Cancelled,50
+AI1020,Air India,Pune,Mumbai,B737,20:00,22:00,93,7142,On Time,74
+AI1021,Vistara,Mumbai,Kolkata,B737,21:00,23:00,192,6533,On Time,105
+AI1022,SpiceJet,Mumbai,Hyderabad,B737,22:00,00:00,186,11530,Cancelled,75
+AI1023,Vistara,Pune,Chennai,B787,23:00,01:00,118,13120,On Time,131
+AI1024,AirAsia India,Chennai,Chennai,B787,00:00,02:00,66,7241,Cancelled,62
+AI1025,GoAir,Delhi,Bangalore,A321,01:00,03:00,92,14317,On Time,94
+AI1026,SpiceJet,Chennai,Pune,B737,02:00,04:00,88,5967,Delayed,128
+AI1027,Air India,Hyderabad,Kolkata,A321,03:00,05:00,222,6903,Cancelled,159
+AI1028,Vistara,Hyderabad,Delhi,B787,04:00,06:00,62,13596,Delayed,137
+AI1029,GoAir,Delhi,Pune,B737,05:00,07:00,118,3857,Delayed,85
+AI1030,SpiceJet,Kolkata,Bangalore,A321,06:00,08:00,166,12309,Delayed,58
+AI1031,Vistara,Mumbai,Chennai,B737,07:00,09:00,182,12143,Cancelled,110
+AI1032,GoAir,Bangalore,Hyderabad,B737,08:00,10:00,220,7713,On Time,91
+AI1033,GoAir,Bangalore,Bangalore,ATR-72,09:00,11:00,96,5460,Delayed,153
+AI1034,AirAsia India,Chennai,Mumbai,B787,10:00,12:00,155,11577,On Time,83
+AI1035,Air India,Kolkata,Ahmedabad,B737,11:00,13:00,116,9266,Delayed,80
+AI1036,Vistara,Ahmedabad,Mumbai,B737,12:00,14:00,187,7516,On Time,130
+AI1037,Air India,Chennai,Kolkata,ATR-72,13:00,15:00,108,5656,Cancelled,134
+AI1038,AirAsia India,Kolkata,Ahmedabad,B737,14:00,16:00,102,5781,On Time,173
+AI1039,IndiGo,Delhi,Bangalore,ATR-72,15:00,17:00,184,8787,Cancelled,67
+AI1040,Vistara,Kolkata,Bangalore,ATR-72,16:00,18:00,67,4364,Cancelled,109
+AI1041,GoAir,Bangalore,Delhi,B787,17:00,19:00,165,11497,On Time,146
+AI1042,AirAsia India,Mumbai,Mumbai,A321,18:00,20:00,91,11093,On Time,82
+AI1043,Vistara,Kolkata,Pune,ATR-72,19:00,21:00,100,3078,Cancelled,88
+AI1044,IndiGo,Hyderabad,Kolkata,A321,20:00,22:00,148,7476,On Time,167
+AI1045,Vistara,Chennai,Ahmedabad,A321,21:00,23:00,198,8110,Delayed,74
+AI1046,IndiGo,Kolkata,Delhi,A321,22:00,00:00,133,3228,Delayed,73
+AI1047,Vistara,Pune,Pune,A321,23:00,01:00,204,4382,Cancelled,144
+AI1048,Vistara,Kolkata,Pune,A321,00:00,02:00,99,5827,On Time,92
+AI1049,GoAir,Kolkata,Mumbai,A321,01:00,03:00,163,4360,On Time,147
+AI1050,GoAir,Chennai,Kolkata,B737,02:00,04:00,126,12497,On Time,158
+AI1051,Air India,Delhi,Kolkata,A320,03:00,05:00,119,4904,On Time,84
+AI1052,SpiceJet,Kolkata,Mumbai,B737,04:00,06:00,158,13113,On Time,101
+AI1053,GoAir,Mumbai,Mumbai,B787,05:00,07:00,92,12223,On Time,168
+AI1054,GoAir,Hyderabad,Delhi,B787,06:00,08:00,121,10441,On Time,94
+AI1055,IndiGo,Hyderabad,Ahmedabad,ATR-72,07:00,09:00,224,4568,On Time,146
+AI1056,SpiceJet,Pune,Bangalore,B787,08:00,10:00,186,6118,On Time,120
+AI1057,IndiGo,Ahmedabad,Mumbai,ATR-72,09:00,11:00,153,11762,Delayed,151
+AI1058,GoAir,Kolkata,Hyderabad,B737,10:00,12:00,79,7042,Cancelled,111
+AI1059,Air India,Hyderabad,Chennai,A320,11:00,13:00,68,12952,Cancelled,91
+AI1060,Vistara,Mumbai,Delhi,B737,12:00,14:00,218,8082,Delayed,122
+AI1061,AirAsia India,Delhi,Kolkata,ATR-72,13:00,15:00,118,12115,Delayed,97
+AI1062,Air India,Kolkata,Ahmedabad,B787,14:00,16:00,138,10425,On Time,168
+AI1063,AirAsia India,Kolkata,Hyderabad,B787,15:00,17:00,202,14100,Delayed,58
+AI1064,IndiGo,Mumbai,Bangalore,A321,16:00,18:00,227,4175,On Time,142
+AI1065,Air India,Kolkata,Chennai,B787,17:00,19:00,73,12817,On Time,170
+AI1066,IndiGo,Chennai,Ahmedabad,A321,18:00,20:00,113,14302,Cancelled,176
+AI1067,GoAir,Pune,Chennai,A321,19:00,21:00,184,7289,Delayed,158
+AI1068,Vistara,Kolkata,Hyderabad,ATR-72,20:00,22:00,190,7807,Delayed,124
+AI1069,Air India,Pune,Ahmedabad,B737,21:00,23:00,116,6003,Delayed,74
+AI1070,IndiGo,Kolkata,Kolkata,A321,22:00,00:00,234,5635,On Time,146
+AI1071,IndiGo,Ahmedabad,Bangalore,B787,23:00,01:00,84,6560,Delayed,156
+AI1072,GoAir,Bangalore,Bangalore,ATR-72,00:00,02:00,184,12159,On Time,128
+AI1073,IndiGo,Mumbai,Pune,A320,01:00,03:00,240,10323,Cancelled,110
+AI1074,Vistara,Kolkata,Bangalore,A320,02:00,04:00,64,14917,Cancelled,69
+AI1075,GoAir,Chennai,Ahmedabad,B787,03:00,05:00,233,6753,Delayed,71
+AI1076,GoAir,Hyderabad,Ahmedabad,A321,04:00,06:00,213,14020,Delayed,82
+AI1077,GoAir,Delhi,Mumbai,B737,05:00,07:00,211,11335,Cancelled,89
+AI1078,GoAir,Chennai,Pune,B737,06:00,08:00,126,10309,Cancelled,111
+AI1079,AirAsia India,Chennai,Hyderabad,B737,07:00,09:00,149,6351,On Time,165
+AI1080,Air India,Delhi,Mumbai,ATR-72,08:00,10:00,121,9592,Delayed,80
+AI1081,Vistara,Kolkata,Bangalore,A321,09:00,11:00,234,3133,Cancelled,93
+AI1082,IndiGo,Mumbai,Delhi,ATR-72,10:00,12:00,122,14634,Delayed,140
+AI1083,IndiGo,Hyderabad,Ahmedabad,A320,11:00,13:00,84,14475,On Time,134
+AI1084,Air India,Chennai,Kolkata,A320,12:00,14:00,104,9082,Delayed,97
+AI1085,GoAir,Chennai,Delhi,ATR-72,13:00,15:00,79,11926,On Time,61
+AI1086,Air India,Ahmedabad,Ahmedabad,B737,14:00,16:00,183,9658,On Time,126
+AI1087,Air India,Delhi,Mumbai,ATR-72,15:00,17:00,151,14049,On Time,171
+AI1088,IndiGo,Ahmedabad,Kolkata,A321,16:00,18:00,183,8000,Cancelled,105
+AI1089,SpiceJet,Hyderabad,Bangalore,A321,17:00,19:00,208,3922,On Time,168
+AI1090,Air India,Mumbai,Ahmedabad,B787,18:00,20:00,164,3831,Cancelled,98
+AI1091,SpiceJet,Pune,Hyderabad,ATR-72,19:00,21:00,191,5553,Cancelled,55
+AI1092,IndiGo,Delhi,Delhi,B787,20:00,22:00,134,8661,Cancelled,102
+AI1093,Vistara,Chennai,Hyderabad,B737,21:00,23:00,84,3455,Cancelled,130
+AI1094,GoAir,Mumbai,Mumbai,A321,22:00,00:00,71,11879,Delayed,122
+AI1095,Vistara,Bangalore,Chennai,B787,23:00,01:00,150,8371,Delayed,152
+AI1096,AirAsia India,Mumbai,Pune,B787,00:00,02:00,187,8022,Cancelled,139
+AI1097,SpiceJet,Ahmedabad,Delhi,B787,01:00,03:00,187,14842,Delayed,76
+AI1098,GoAir,Hyderabad,Delhi,A320,02:00,04:00,113,13351,Cancelled,62
+AI1099,IndiGo,Pune,Ahmedabad,A321,03:00,05:00,151,13557,Delayed,63

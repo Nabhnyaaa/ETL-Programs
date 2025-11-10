@@ -1,0 +1,230 @@
+Employee(s) who have the highest combined total of salary and bonus:
+The employee(s) who have the highest combined total of 130274.08 is: [['REKMI', 'Finance', 'Canada'], ['REKMI', 'Finance', 'Canada'], ['REKMI', 'Finance', 'Canada'], ['REKMI', 'Finance', 'Canada'], ['REKMI', 'Finance', 'Canada'], ['REKMI', 'Finance', 'Canada'], ['REKMI', 'Finance', 'Canada'], ['REKMI', 'Finance', 'Canada'], ['REKMI', 'Finance', 'Canada'], ['REKMI', 'Finance', 'Canada'], ['REKMI', 'Finance', 'Canada'], ['REKMI', 'Finance', 'Canada'], ['REKMI', 'Finance', 'Canada'], ['REKMI', 'Finance', 'Canada']]
+
+Employees whose email domain is 'example.com', have “Manager” as a position, and joined before 2010:
+PBCRO: pbcro@example.com, Manager, 2002
+
+BYFBY: byfby@example.com, Manager, 2009
+
+LBDJI: lbdji@example.com, Manager, 2005
+
+GRMER: grmer@example.com, Manager, 2002
+
+LOTUD: lotud@example.com, Manager, 2001
+
+QIZZX: qizzx@example.com, Manager, 2002
+
+REPOQ: repoq@example.com, Manager, 2009
+
+JIUNJ: jiunj@example.com, Manager, 2007
+
+PBCRO: pbcro@example.com, Manager, 2002
+
+BYFBY: byfby@example.com, Manager, 2009
+
+LBDJI: lbdji@example.com, Manager, 2005
+
+GRMER: grmer@example.com, Manager, 2002
+
+LOTUD: lotud@example.com, Manager, 2001
+
+QIZZX: qizzx@example.com, Manager, 2002
+
+REPOQ: repoq@example.com, Manager, 2009
+
+JIUNJ: jiunj@example.com, Manager, 2007
+
+PBCRO: pbcro@example.com, Manager, 2002
+
+BYFBY: byfby@example.com, Manager, 2009
+
+LBDJI: lbdji@example.com, Manager, 2005
+
+GRMER: grmer@example.com, Manager, 2002
+
+LOTUD: lotud@example.com, Manager, 2001
+
+QIZZX: qizzx@example.com, Manager, 2002
+
+REPOQ: repoq@example.com, Manager, 2009
+
+JIUNJ: jiunj@example.com, Manager, 2007
+
+PBCRO: pbcro@example.com, Manager, 2002
+
+BYFBY: byfby@example.com, Manager, 2009
+
+LBDJI: lbdji@example.com, Manager, 2005
+
+GRMER: grmer@example.com, Manager, 2002
+
+LOTUD: lotud@example.com, Manager, 2001
+
+QIZZX: qizzx@example.com, Manager, 2002
+
+REPOQ: repoq@example.com, Manager, 2009
+
+JIUNJ: jiunj@example.com, Manager, 2007
+
+PBCRO: pbcro@example.com, Manager, 2002
+
+BYFBY: byfby@example.com, Manager, 2009
+
+LBDJI: lbdji@example.com, Manager, 2005
+
+GRMER: grmer@example.com, Manager, 2002
+
+LOTUD: lotud@example.com, Manager, 2001
+
+QIZZX: qizzx@example.com, Manager, 2002
+
+REPOQ: repoq@example.com, Manager, 2009
+
+JIUNJ: jiunj@example.com, Manager, 2007
+
+PBCRO: pbcro@example.com, Manager, 2002
+
+BYFBY: byfby@example.com, Manager, 2009
+
+LBDJI: lbdji@example.com, Manager, 2005
+
+GRMER: grmer@example.com, Manager, 2002
+
+LOTUD: lotud@example.com, Manager, 2001
+
+QIZZX: qizzx@example.com, Manager, 2002
+
+REPOQ: repoq@example.com, Manager, 2009
+
+JIUNJ: jiunj@example.com, Manager, 2007
+
+PBCRO: pbcro@example.com, Manager, 2002
+
+BYFBY: byfby@example.com, Manager, 2009
+
+LBDJI: lbdji@example.com, Manager, 2005
+
+GRMER: grmer@example.com, Manager, 2002
+
+LOTUD: lotud@example.com, Manager, 2001
+
+QIZZX: qizzx@example.com, Manager, 2002
+
+REPOQ: repoq@example.com, Manager, 2009
+
+JIUNJ: jiunj@example.com, Manager, 2007
+
+PBCRO: pbcro@example.com, Manager, 2002
+
+BYFBY: byfby@example.com, Manager, 2009
+
+LBDJI: lbdji@example.com, Manager, 2005
+
+GRMER: grmer@example.com, Manager, 2002
+
+LOTUD: lotud@example.com, Manager, 2001
+
+QIZZX: qizzx@example.com, Manager, 2002
+
+REPOQ: repoq@example.com, Manager, 2009
+
+JIUNJ: jiunj@example.com, Manager, 2007
+
+PBCRO: pbcro@example.com, Manager, 2002
+
+BYFBY: byfby@example.com, Manager, 2009
+
+LBDJI: lbdji@example.com, Manager, 2005
+
+GRMER: grmer@example.com, Manager, 2002
+
+LOTUD: lotud@example.com, Manager, 2001
+
+QIZZX: qizzx@example.com, Manager, 2002
+
+REPOQ: repoq@example.com, Manager, 2009
+
+JIUNJ: jiunj@example.com, Manager, 2007
+
+PBCRO: pbcro@example.com, Manager, 2002
+
+BYFBY: byfby@example.com, Manager, 2009
+
+LBDJI: lbdji@example.com, Manager, 2005
+
+GRMER: grmer@example.com, Manager, 2002
+
+LOTUD: lotud@example.com, Manager, 2001
+
+QIZZX: qizzx@example.com, Manager, 2002
+
+REPOQ: repoq@example.com, Manager, 2009
+
+JIUNJ: jiunj@example.com, Manager, 2007
+
+PBCRO: pbcro@example.com, Manager, 2002
+
+BYFBY: byfby@example.com, Manager, 2009
+
+LBDJI: lbdji@example.com, Manager, 2005
+
+GRMER: grmer@example.com, Manager, 2002
+
+LOTUD: lotud@example.com, Manager, 2001
+
+QIZZX: qizzx@example.com, Manager, 2002
+
+REPOQ: repoq@example.com, Manager, 2009
+
+JIUNJ: jiunj@example.com, Manager, 2007
+
+PBCRO: pbcro@example.com, Manager, 2002
+
+BYFBY: byfby@example.com, Manager, 2009
+
+LBDJI: lbdji@example.com, Manager, 2005
+
+GRMER: grmer@example.com, Manager, 2002
+
+LOTUD: lotud@example.com, Manager, 2001
+
+QIZZX: qizzx@example.com, Manager, 2002
+
+REPOQ: repoq@example.com, Manager, 2009
+
+JIUNJ: jiunj@example.com, Manager, 2007
+
+PBCRO: pbcro@example.com, Manager, 2002
+
+BYFBY: byfby@example.com, Manager, 2009
+
+LBDJI: lbdji@example.com, Manager, 2005
+
+GRMER: grmer@example.com, Manager, 2002
+
+LOTUD: lotud@example.com, Manager, 2001
+
+QIZZX: qizzx@example.com, Manager, 2002
+
+REPOQ: repoq@example.com, Manager, 2009
+
+JIUNJ: jiunj@example.com, Manager, 2007
+
+PBCRO: pbcro@example.com, Manager, 2002
+
+BYFBY: byfby@example.com, Manager, 2009
+
+LBDJI: lbdji@example.com, Manager, 2005
+
+GRMER: grmer@example.com, Manager, 2002
+
+LOTUD: lotud@example.com, Manager, 2001
+
+QIZZX: qizzx@example.com, Manager, 2002
+
+REPOQ: repoq@example.com, Manager, 2009
+
+JIUNJ: jiunj@example.com, Manager, 2007
+
+Percentage of employees who joined after 2015 and have handled more than 10 projects:
+The percentage of employees who joined after 2015 and have handled more than 10 projects:15.0%

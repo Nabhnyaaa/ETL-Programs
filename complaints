@@ -1,0 +1,201 @@
+complaint_id,customer_id,complaint_type,status,date
+1,75,Network Issue,Resolved,2023-12-15
+2,185,Network Issue,Pending,2023-08-02
+3,23,Network Issue,Open,2023-06-20
+4,176,Network Issue,Resolved,2023-11-19
+5,128,Network Issue,Open,2023-02-23
+6,150,Plan Upgrade,Pending,2023-10-25
+7,17,Other,Resolved,2023-11-16
+8,69,Billing Issue,Open,2023-05-06
+9,108,Plan Upgrade,Pending,2023-10-04
+10,139,Other,Open,2023-07-23
+11,94,Network Issue,Open,2023-07-13
+12,15,Other,Open,2023-06-18
+13,91,Other,Pending,2023-06-01
+14,163,Network Issue,Pending,2023-02-04
+15,33,Network Issue,Open,2023-07-03
+16,125,Network Issue,Resolved,2023-10-13
+17,16,Billing Issue,Resolved,2023-02-26
+18,162,Network Issue,Pending,2023-08-10
+19,66,Billing Issue,Pending,2023-10-30
+20,168,Network Issue,Pending,2023-06-12
+21,156,Billing Issue,Pending,2023-01-19
+22,47,Other,Pending,2023-09-21
+23,167,Plan Upgrade,Resolved,2023-10-09
+24,198,Other,Pending,2023-04-23
+25,148,Other,Open,2023-11-23
+26,124,Network Issue,Open,2023-01-30
+27,1,Billing Issue,Resolved,2023-05-15
+28,200,Plan Upgrade,Open,2023-03-08
+29,87,Network Issue,Resolved,2023-03-06
+30,128,Network Issue,Resolved,2023-10-19
+31,191,Network Issue,Open,2023-01-25
+32,67,Other,Pending,2023-02-06
+33,4,Billing Issue,Open,2023-01-01
+34,186,Billing Issue,Open,2023-02-06
+35,153,Plan Upgrade,Resolved,2023-05-21
+36,47,Billing Issue,Open,2023-08-20
+37,38,Billing Issue,Resolved,2023-05-16
+38,143,Network Issue,Pending,2023-07-07
+39,191,Network Issue,Pending,2023-05-08
+40,21,Other,Pending,2023-07-20
+41,57,Network Issue,Open,2023-05-07
+42,117,Network Issue,Resolved,2023-09-14
+43,181,Network Issue,Pending,2023-06-13
+44,46,Network Issue,Resolved,2023-02-04
+45,142,Other,Resolved,2023-07-13
+46,145,Network Issue,Pending,2023-07-10
+47,39,Plan Upgrade,Pending,2023-04-14
+48,137,Plan Upgrade,Resolved,2023-01-23
+49,99,Plan Upgrade,Pending,2023-09-22
+50,77,Plan Upgrade,Resolved,2023-10-17
+51,115,Network Issue,Resolved,2023-09-17
+52,134,Plan Upgrade,Pending,2023-12-24
+53,151,Network Issue,Open,2023-03-16
+54,187,Other,Pending,2023-12-21
+55,91,Plan Upgrade,Open,2023-03-13
+56,98,Billing Issue,Resolved,2023-09-16
+57,120,Plan Upgrade,Resolved,2023-07-07
+58,46,Plan Upgrade,Open,2023-06-22
+59,38,Network Issue,Resolved,2023-10-17
+60,142,Plan Upgrade,Open,2023-02-14
+61,100,Billing Issue,Open,2023-03-02
+62,72,Network Issue,Resolved,2023-03-24
+63,190,Network Issue,Open,2023-05-03
+64,35,Other,Pending,2023-12-24
+65,147,Other,Pending,2023-01-16
+66,30,Plan Upgrade,Resolved,2023-03-07
+67,78,Other,Resolved,2023-05-25
+68,84,Other,Open,2023-06-11
+69,113,Other,Open,2023-08-22
+70,25,Network Issue,Open,2023-05-24
+71,168,Network Issue,Open,2023-12-24
+72,88,Network Issue,Pending,2023-07-07
+73,14,Other,Pending,2023-11-18
+74,154,Network Issue,Resolved,2023-01-13
+75,102,Other,Open,2023-07-03
+76,150,Network Issue,Open,2023-04-21
+77,176,Network Issue,Resolved,2023-10-17
+78,83,Billing Issue,Open,2023-10-22
+79,110,Plan Upgrade,Open,2023-08-03
+80,179,Other,Open,2023-04-30
+81,131,Billing Issue,Open,2023-02-24
+82,170,Network Issue,Open,2023-01-27
+83,19,Other,Resolved,2023-04-28
+84,28,Network Issue,Open,2023-08-09
+85,173,Plan Upgrade,Resolved,2023-08-19
+86,71,Billing Issue,Open,2023-02-22
+87,63,Plan Upgrade,Pending,2023-10-22
+88,73,Billing Issue,Pending,2023-11-17
+89,124,Network Issue,Pending,2023-08-21
+90,119,Plan Upgrade,Pending,2023-06-07
+91,121,Plan Upgrade,Resolved,2023-09-26
+92,19,Network Issue,Resolved,2023-01-21
+93,175,Plan Upgrade,Open,2023-02-22
+94,142,Other,Pending,2023-10-02
+95,120,Billing Issue,Resolved,2023-11-09
+96,166,Billing Issue,Open,2023-10-08
+97,181,Billing Issue,Open,2023-08-02
+98,61,Other,Resolved,2023-01-31
+99,164,Billing Issue,Pending,2023-12-03
+100,168,Network Issue,Open,2023-07-02
+101,30,Plan Upgrade,Pending,2023-01-23
+102,9,Other,Pending,2023-02-01
+103,64,Billing Issue,Pending,2023-03-15
+104,161,Network Issue,Open,2023-01-10
+105,120,Plan Upgrade,Pending,2023-02-23
+106,52,Plan Upgrade,Open,2023-02-21
+107,89,Other,Pending,2023-05-28
+108,142,Other,Open,2023-06-09
+109,53,Other,Pending,2023-01-14
+110,187,Network Issue,Resolved,2023-06-27
+111,78,Network Issue,Pending,2023-02-22
+112,41,Other,Pending,2023-12-01
+113,196,Billing Issue,Open,2023-01-22
+114,68,Plan Upgrade,Open,2023-01-30
+115,8,Plan Upgrade,Pending,2023-07-10
+116,2,Network Issue,Resolved,2023-09-17
+117,105,Plan Upgrade,Resolved,2023-07-24
+118,125,Billing Issue,Open,2023-02-28
+119,110,Plan Upgrade,Resolved,2023-09-21
+120,86,Network Issue,Pending,2023-01-12
+121,169,Network Issue,Open,2023-04-29
+122,120,Billing Issue,Pending,2023-10-17
+123,127,Billing Issue,Open,2023-12-04
+124,183,Plan Upgrade,Open,2023-09-05
+125,16,Plan Upgrade,Open,2023-12-20
+126,62,Network Issue,Open,2023-05-07
+127,113,Billing Issue,Resolved,2023-03-16
+128,176,Billing Issue,Pending,2023-12-27
+129,158,Billing Issue,Pending,2023-07-23
+130,12,Plan Upgrade,Pending,2023-02-18
+131,35,Billing Issue,Open,2023-03-20
+132,11,Network Issue,Resolved,2023-08-29
+133,64,Network Issue,Pending,2023-12-15
+134,50,Plan Upgrade,Resolved,2023-06-03
+135,149,Other,Open,2023-10-01
+136,69,Plan Upgrade,Pending,2023-04-06
+137,48,Other,Resolved,2023-08-02
+138,20,Billing Issue,Open,2023-10-21
+139,101,Plan Upgrade,Resolved,2023-07-28
+140,195,Network Issue,Pending,2023-12-09
+141,172,Billing Issue,Pending,2023-03-29
+142,161,Network Issue,Open,2023-11-02
+143,189,Billing Issue,Open,2023-09-21
+144,137,Plan Upgrade,Open,2023-11-21
+145,68,Other,Resolved,2023-11-16
+146,35,Billing Issue,Resolved,2023-06-06
+147,65,Other,Resolved,2023-06-05
+148,8,Billing Issue,Open,2023-05-19
+149,45,Network Issue,Pending,2023-05-01
+150,87,Network Issue,Pending,2023-03-06
+151,175,Billing Issue,Resolved,2023-04-17
+152,168,Other,Resolved,2023-05-27
+153,76,Plan Upgrade,Pending,2023-05-17
+154,182,Plan Upgrade,Pending,2023-06-11
+155,76,Network Issue,Resolved,2023-04-10
+156,174,Plan Upgrade,Resolved,2023-12-04
+157,47,Network Issue,Pending,2023-11-03
+158,15,Plan Upgrade,Open,2023-05-21
+159,105,Billing Issue,Resolved,2023-03-24
+160,147,Network Issue,Pending,2023-06-26
+161,26,Network Issue,Pending,2023-07-17
+162,52,Billing Issue,Pending,2023-04-22
+163,93,Network Issue,Pending,2023-02-25
+164,150,Plan Upgrade,Open,2023-06-28
+165,21,Plan Upgrade,Pending,2023-07-05
+166,51,Network Issue,Resolved,2023-08-06
+167,38,Plan Upgrade,Open,2023-11-12
+168,20,Other,Pending,2023-08-05
+169,157,Network Issue,Open,2023-04-30
+170,179,Billing Issue,Resolved,2023-06-24
+171,132,Other,Pending,2023-01-23
+172,55,Network Issue,Resolved,2023-08-01
+173,199,Billing Issue,Pending,2023-08-23
+174,92,Plan Upgrade,Pending,2023-01-13
+175,28,Billing Issue,Pending,2023-04-11
+176,4,Other,Pending,2023-01-24
+177,150,Plan Upgrade,Pending,2023-12-30
+178,76,Network Issue,Open,2023-01-11
+179,173,Plan Upgrade,Pending,2023-09-30
+180,67,Network Issue,Pending,2023-10-08
+181,86,Network Issue,Open,2023-04-04
+182,194,Billing Issue,Open,2023-07-20
+183,162,Billing Issue,Open,2023-01-21
+184,91,Billing Issue,Open,2023-12-06
+185,183,Other,Open,2023-07-30
+186,105,Other,Open,2023-05-20
+187,1,Billing Issue,Pending,2023-10-20
+188,72,Other,Pending,2023-10-25
+189,87,Plan Upgrade,Resolved,2023-04-11
+190,166,Plan Upgrade,Pending,2023-10-31
+191,6,Other,Pending,2023-12-25
+192,153,Other,Open,2023-01-28
+193,145,Plan Upgrade,Open,2023-02-10
+194,61,Network Issue,Pending,2023-12-21
+195,12,Plan Upgrade,Resolved,2023-10-30
+196,6,Plan Upgrade,Open,2023-05-26
+197,27,Other,Pending,2023-09-13
+198,136,Plan Upgrade,Pending,2023-08-15
+199,124,Other,Resolved,2023-08-24
+200,106,Other,Resolved,2023-12-27
